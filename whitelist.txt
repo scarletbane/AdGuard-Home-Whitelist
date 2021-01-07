@@ -55,6 +55,11 @@
 @@||aspnetcdn.com^$important
 @@||v10.events.data.microsoft.com
 @@||v20.events.data.microsoft.com
+@@||vortex.data.microsoft.com
+
+# Halo
+@@||halowaypoint.com
+@@||playfabapi.com
 
 # Facebook Messenger
 @@||api.facebook.com^$important

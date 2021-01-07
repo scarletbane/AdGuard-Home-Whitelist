@@ -53,6 +53,8 @@
 @@||dl.delivery.mp.microsoft.com^$important
 @@||1drv.com^$important
 @@||aspnetcdn.com^$important
+@@||v10.events.data.microsoft.com
+@@||v20.events.data.microsoft.com
 
 # Facebook Messenger
 @@||api.facebook.com^$important

@@ -11,6 +11,9 @@
 # Beachbody
 @@||tags.tiqcdn.com^$important
 
+# Schoolboard
+@@||schoolmessenger.com^$important
+
 # Microsoft
 @@||xbox.ipv6.microsoft.com^$important
 @@||xboxexperiencesprod.experimentation.xboxlive.com^$important
